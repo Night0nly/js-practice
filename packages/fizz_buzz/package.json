@@ -1,0 +1,9 @@
+{
+  "name": "fizz_buzz",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/output.js",
+    "test": "mocha"
+  }
+}

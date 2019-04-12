@@ -1,0 +1,13 @@
+#intellij file
+.idea/
+
+#yarn
+node_modules
+yarn.lock
+yarn-error
+
+# Log file
+*.log
+
+#TypeScript
+build

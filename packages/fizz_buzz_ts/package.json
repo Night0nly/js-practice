@@ -1,0 +1,9 @@
+{
+  "name": "fizz_buzz_ts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/output.ts",
+    "test": "mocha -r ts-node/register test/**/*"
+  }
+}

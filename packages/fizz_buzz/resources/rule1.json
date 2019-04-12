@@ -1,0 +1,6 @@
+{
+  "start_number": 1,
+  "end_number": 100,
+  "fizz_number": 3,
+  "buzz_number": 5
+}
